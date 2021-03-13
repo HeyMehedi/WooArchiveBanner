@@ -1,0 +1,20 @@
+/* Cat Banner Title */
+.wbm_banner_image.banner {
+    position: absolute;
+    width: 100%;
+    left: 0;
+	background-size: cover;
+    background-position: center left;
+}
+
+.banner_default_title_row {
+    padding: 40px 0;
+    margin: 0 auto;
+}
+.banner_default_title {
+	margin-top: 50px;
+    color: #fff;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 20px;
+}
