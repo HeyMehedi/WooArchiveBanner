@@ -26,7 +26,6 @@ function woocommerce_category_image() {
 	    if ( $image ) {
 		    ?>
 			<div class="wbm_banner_image banner" style="background-image: url('<?php echo $image; ?>');"> 
-				<!-- <img src="<?php echo $image; ?>" class="category_banner_image"> -->
 				<div class="banner_default_title_row">
 					<h2 class="banner_default_title" style="color:; font-size: 50px;"><?php woocommerce_page_title(); ?></h2>
 				</div>
